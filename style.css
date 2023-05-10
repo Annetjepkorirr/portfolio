@@ -1,0 +1,72 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 20px;
+    }
+
+.navbar{
+    text-align: right;
+    font-size: 17px;
+    margin-top: 20px;
+    color: whitesmoke;
+    
+}
+.software{
+    background-color:black;
+    height: 95vh;
+    
+   
+}
+.dev{
+    margin-top: 30pxpx;
+    margin-left: 100px;
+    font-size: 45px;
+    color: darkorange
+}
+.develop{
+    color: whitesmoke;
+}
+.intro{
+    color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: monospace;
+    font-size: 30px;
+
+}
+.image img{
+    height: 80vh;
+    margin-left: 800px;
+    margin-top: -150px;
+    border-radius: 200%;
+}
+.knowme{
+    color: maroon;
+    margin-top: -330px;
+    margin-left: 100px;
+
+}
+.colar{
+    color: whitesmoke;
+    margin-left: 100px;
+    font-size: 17px;
+}
+.icons{
+    margin-top: 20px;
+    font-size: 30px;
+}
+/* .knowme{
+    background-color:black;
+    height: 450px;
+    color: whitesmoke;
+   
+}
+.me{
+    margin-left: 700px;
+   padding-top: 130px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
